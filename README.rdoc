@@ -23,6 +23,7 @@ All vertices are saved as keys in a Hash pointing to true.
 === Assumptions
 * There are no repeated faces
 * Each face is a triangle (consisting of three vertices)
+* There is only one solid object
  
 Sample stl files are located in the repo.
  
