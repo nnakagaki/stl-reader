@@ -22,7 +22,8 @@ This ruby program reads in an stl file and outputs the number of faces, sides, a
 * Each face is a triangle (consisting of three vertices)
 * There is only one solid object
 
----
+	
+	
  
 Sample stl files are located in the repo.
  
